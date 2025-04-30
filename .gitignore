@@ -1,3 +1,6 @@
+# folders and files to ignore in the root of the repository
+data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
